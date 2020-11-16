@@ -1,0 +1,1 @@
+insert into users(id, username, password, status) VALUES (1,'test','123456',1);
